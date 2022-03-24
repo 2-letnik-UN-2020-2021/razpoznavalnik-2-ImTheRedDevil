@@ -2,6 +2,6 @@ lrdClteta :=00;
   lOeC :=sa;
   
 la := -10 * 0 + 1 + 10;
-  FOevh:= 10;
-     WRITE 1 -- 1
+  FOevh:= 10;;
+     WRITE 1 - -1
    
